@@ -1,7 +1,5 @@
 # lab member	role
 
-New lines, fully intended to mess up old stuff
-
 Members:
 Lambodhar Damodaran	Post-doc
 Anna Jaeger	Post-doc
@@ -16,5 +14,6 @@ there are sloths in the lab now!
 GODZILLA GODZILLA GODZILLA
 i have things to say about git flow and i don't care who knows it
 
+skunky
 I'm really hoping this makes a merge conflict 
 water water water water water water water water water water water water water water water water water water water water water
