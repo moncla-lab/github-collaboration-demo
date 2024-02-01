@@ -8,3 +8,6 @@ Louise Moncla	PI
 Jordan Ort 	PhD student
 
 hello my name is dane and i'm helping create this git tutorial
+
+new people: 
+there are sloths in the lab now! 
