@@ -1,5 +1,6 @@
 # lab member	role
 
+Members:
 Lambodhar Damodaran	Post-doc
 Anna Jaeger	Post-doc
 Maria Maltepes	PhD student
@@ -7,3 +8,8 @@ Louise Moncla	PI
 Jordan Ort 	PhD student
 
 Dane Gellerup - The GOAT
+
+Collaborators: 
+Beiting lab 
+Planet lab
+Hensley lab
