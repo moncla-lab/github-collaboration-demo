@@ -6,3 +6,5 @@ Anna Jaeger	Post-doc
 Maria Maltepes	PhD student
 Louise Moncla	PI
 Jordan Ort 	PhD student
+
+hello my name is dane and i'm helping create this git tutorial
