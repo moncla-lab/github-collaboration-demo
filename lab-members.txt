@@ -1,5 +1,7 @@
 # lab member	role
 
+New lines, fully intended to mess up old stuff
+
 Members:
 Lambodhar Damodaran	Post-doc
 Anna Jaeger	Post-doc
@@ -12,3 +14,4 @@ hello my name is dane and i'm helping create this git tutorial
 new people: 
 there are sloths in the lab now! 
 GODZILLA GODZILLA GODZILLA
+i have things to say about git flow and i don't care who knows it
