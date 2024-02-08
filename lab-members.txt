@@ -1,8 +1,8 @@
 # lab member	role
 
 Members:
+Louise Moncla	PI
 Lambodhar Damodaran	Post-doc
 Anna Jaeger	Post-doc
-Maria Maltepes	PhD student
-Louise Moncla	PI
 Jordan Ort 	1st PhD student
+Maria Maltepes	PhD student
